@@ -14,4 +14,11 @@ api_key=b5eaa9e39380f3280afb74b8ada815c9'
 Imagens:
 https://developer.themoviedb.org/docs/image-basics
 
-CSS: background-color: transparent
+CSS: background-color: transparent | margin: 0 auto;
+
+
+const mudanca = (e) => {
+    const valor = e.target.value		
+}
+
+live.addEventListener('change', mudanca)

@@ -14,3 +14,4 @@ api_key=b5eaa9e39380f3280afb74b8ada815c9'
 Imagens:
 https://developer.themoviedb.org/docs/image-basics
 
+CSS: background-color: transparent

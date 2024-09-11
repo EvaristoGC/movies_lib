@@ -1,0 +1,16 @@
+https://api.themoviedb.org/3/movie/popular?language=pt-BR
+
+https://github.com/matheusbattisti/movies_lib
+
+Token de Leitura da API
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNWVhYTllMzkzODBmMzI4MGFmYjc0YjhhZGE4MTVjOSIsIm5iZiI6MTcyNjAwNTkwNy43NDM5NTEsInN1YiI6IjY2ZTBiYjk3OTBhOTg2MTg5MTFjMWNkNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Nu9SOPREqqoGoEfLzVkHt1SozvMjZ2HLJDaveWtFdsg
+
+
+Consultar detalhes
+https://api.themoviedb.org/3/movie/343611
+api_key=b5eaa9e39380f3280afb74b8ada815c9'
+
+
+Imagens:
+https://developer.themoviedb.org/docs/image-basics
+

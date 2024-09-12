@@ -6,19 +6,21 @@ Token de Leitura da API
 eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNWVhYTllMzkzODBmMzI4MGFmYjc0YjhhZGE4MTVjOSIsIm5iZiI6MTcyNjAwNTkwNy43NDM5NTEsInN1YiI6IjY2ZTBiYjk3OTBhOTg2MTg5MTFjMWNkNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Nu9SOPREqqoGoEfLzVkHt1SozvMjZ2HLJDaveWtFdsg
 
 
-Consultar detalhes
-https://api.themoviedb.org/3/movie/343611
-api_key=b5eaa9e39380f3280afb74b8ada815c9'
-
-
 Imagens:
 https://developer.themoviedb.org/docs/image-basics
 
+
+https://api.themoviedb.org/3/search/movie?query=superman&include_adult=false&language=en-US&page=1' \
+
+
+Passar:
 CSS: background-color: transparent | margin: 0 auto;
 
-
+Pesquisa:
 const mudanca = (e) => {
     const valor = e.target.value		
 }
 
 live.addEventListener('change', mudanca)
+Para que serve o useNavigate, diferença com o <Link>
+Diferença entre useSearchParams e useParams - e para que servem
